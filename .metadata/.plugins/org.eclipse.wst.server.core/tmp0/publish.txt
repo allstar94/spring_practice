@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Oct 26 16:06:55 KST 2021
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\KOREAIT\\.m2\\repository\\org\\springframework\\spring-web\\4.2.4.RELEASE\\spring-web-4.2.4.RELEASE.jar=C\:\\DEV\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\Model2_Board\\WEB-INF\\lib\\spring-web-4.2.4.RELEASE.jar
+org.eclipse.jst.jee.server\:Model2_Board=C\:\\DEV\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\Model2_Board
