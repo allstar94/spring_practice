@@ -57,6 +57,7 @@ public class DispatcherServlet extends HttpServlet {
 			
 			if(user != null) {
 				HttpSession session = request.getSession();
+				session.setAttribute("IdKey", id);
 				System.out.println("로그인 성공");
 				response.sendRedirect("getBoardList.do");
 			}else {

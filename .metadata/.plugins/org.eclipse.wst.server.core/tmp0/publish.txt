@@ -1,4 +1,6 @@
 #Tomcat publish data
-#Tue Oct 26 16:06:55 KST 2021
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\KOREAIT\\.m2\\repository\\org\\springframework\\spring-web\\4.2.4.RELEASE\\spring-web-4.2.4.RELEASE.jar=C\:\\DEV\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\Model2_Board\\WEB-INF\\lib\\spring-web-4.2.4.RELEASE.jar
+#Thu Oct 28 15:36:27 KST 2021
+org.eclipse.jst.jee.server\:Couplingtest=C\:\\DEV\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\Couplingtest
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\KOREAIT\\.m2\\repository\\org\\springframework\\spring-web\\4.2.4.RELEASE\\spring-web-4.2.4.RELEASE.jar=C\:\\DEV\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\MVC_FW_Board\\WEB-INF\\lib\\spring-web-4.2.4.RELEASE.jar
 org.eclipse.jst.jee.server\:Model2_Board=C\:\\DEV\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\Model2_Board
+org.eclipse.jst.jee.server\:MVC_FW_Board=C\:\\DEV\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\MVC_FW_Board
